@@ -1,0 +1,11 @@
+/* TEAM */
+
+Developer: Gustam rheza
+Location: Indonesia, Jakarta
+
+/* SITE */
+
+Last Update: 2014/03/06
+Standards: HTML5, CSS3
+Components: MelonJS, jQuery
+Software: VIM, Photoshop
